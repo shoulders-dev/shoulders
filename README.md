@@ -1,2 +1,1 @@
-Developed by TayHerr
 # shoulders
